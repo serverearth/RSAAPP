@@ -37,7 +37,7 @@ class FrameBantuan(wx.Frame):
               pos=wx.Point(96, 24), size=wx.Size(120, 23), style=0)
         self.staticText1.SetFont(wx.Font(14, wx.SWISS, wx.NORMAL, wx.BOLD,
               False, 'Tahoma'))
-        self.staticText1.SetForegroundColour(wx.Colour(44, 157, 177))
+        self.staticText1.SetForegroundColour(wx.Colour(207, 38, 14))
 
         self.staticText2 = wx.StaticText(id=wxID_FRAMEBANTUANSTATICTEXT2,
               label='Kuliah Kerja Praktik', name='staticText2',
